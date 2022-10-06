@@ -104,4 +104,4 @@ L3: unknown instruction pcx
 ```
 
 ## Author
-Emmanuel O Gyasi-Ampomah
+GAN-007
